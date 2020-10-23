@@ -6,3 +6,13 @@ ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcUA0NS4xMzQuMTcuMTY1OjkwMzI/#Switzerlan
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbkAxOTMuMzguMTM3LjE3NDo5MDQx/#Switzerland%2B%F0%9F%87%A8%F0%9F%87%AD%206
 ss://YWVzLTI1Ni1nY206eXhHWTdBNU1jelFZZzZVcVNGeDl1NzhWQDg0LjE3LjUzLjIxMDozNDc2Mg/#Switzerland%2B%F0%9F%87%A8%F0%9F%87%AD%207
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QGNoLXp1ci53Ym5ldC5jZjozMzk5Mg==#Switzerland%2B%F0%9F%87%A8%F0%9F%87%AD%208
+
+
+ss://aes-256-cfb:FG5ddLsMPbV5CutE@193.38.137.174:9050/#Switzerland+🇨🇭 1
+ss://aes-256-cfb:9XwYyZsK8SNzQDtY@193.38.137.174:9059/#Switzerland+🇨🇭 2
+ss://aes-256-cfb:FG5ddLsMPbV5CutE@45.134.17.165:9050/#Switzerland+🇨🇭 3
+ss://aes-256-cfb:U6qnYRhfyDmn8sgn@45.134.17.165:9041/#Switzerland+🇨🇭 4
+ss://aes-256-cfb:UWZQeLRWnkqgkseq@45.134.17.165:9032/#Switzerland+🇨🇭 5
+ss://aes-256-cfb:U6qnYRhfyDmn8sgn@193.38.137.174:9041/#Switzerland+🇨🇭 6
+ss://aes-256-gcm:yxGY7A5MczQYg6UqSFx9u78V@84.17.53.210:34762/#Switzerland+🇨🇭 7
+ss://aes-256-gcm:8n6pwAcrrv2pj6tFY2p3TbQ6@ch-zur.wbnet.cf:33992#Switzerland+🇨🇭 8
